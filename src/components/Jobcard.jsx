@@ -13,7 +13,7 @@ function JobCard({ job , onDelete }) {
 
   }
 
- 
+
   return (
   <div className="card">
     <img
