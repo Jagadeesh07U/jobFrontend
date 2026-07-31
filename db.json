@@ -1,0 +1,270 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "Undrasapu Jagadeesh Kumar",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "npa0XA9aL8M"
+    },
+    {
+      "name": "",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "bgXwSarYDPs"
+    },
+    {
+      "name": "",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "dEgq2JvmUs4"
+    },
+    {
+      "name": "Undrasapu Jagadeesh Kumar",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "v4ECwFvzGhw"
+    },
+    {
+      "name": "Undrasapu Jagadeesh Kumar",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "AlkOkUHNrtQ"
+    },
+    {
+      "name": "",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "AZQ04eVHoqA"
+    },
+    {
+      "name": "Undrasapu Jagadeesh Kumar",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "5VqU9l7J9qk"
+    },
+    {
+      "name": "Undrasapu Jagadeesh Kumar",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "lB6hD137PE8"
+    },
+    {
+      "name": "",
+      "email": "jagadeeshkumar0716@gmail.com",
+      "password": "Jagadeesh@07",
+      "id": "4x2YC8jNUKQ"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "category": "Software Development",
+      "salary": "₹6 LPA",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "description": "Develop responsive web applications using React.js and JavaScript.",
+      "experience": "1-3 Years",
+      "jobType": "Full Time",
+      "rating": 4.5,
+      "package": 600000,
+      "skills": "HTML, CSS, JavaScript, React",
+      "deadline": "31 August 2026",
+      "requirements": [
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "TCS",
+      "location": "Bengaluru",
+      "category": "Software Development",
+      "salary": "₹7 LPA",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "description": "Build scalable REST APIs using Node.js and MongoDB.",
+      "experience": "2-4 Years",
+      "jobType": "Full Time",
+      "rating": 4.6,
+      "package": 700000,
+      "skills": "Node.js, Express, MongoDB",
+      "deadline": "10 September 2026",
+      "requirements": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Java Full Stack Developer",
+      "company": "Accenture",
+      "location": "Chennai",
+      "category": "Software Development",
+      "salary": "₹8 LPA",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "description": "Develop enterprise applications using Java, Spring Boot and React.",
+      "experience": "2-5 Years",
+      "jobType": "Full Time",
+      "rating": 4.8,
+      "package": 800000,
+      "skills": "Java, Spring Boot, React, MySQL",
+      "deadline": "15 September 2026",
+      "requirements": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Python Developer",
+      "company": "Wipro",
+      "location": "Pune",
+      "category": "Software Development",
+      "salary": "₹6.5 LPA",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "description": "Develop backend services using Python and Django.",
+      "experience": "1-3 Years",
+      "jobType": "Full Time",
+      "rating": 4.4,
+      "package": 650000,
+      "skills": "Python, Django, REST API",
+      "deadline": "20 September 2026",
+      "requirements": [
+        "Python",
+        "Django",
+        "REST API"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "UI/UX Designer",
+      "company": "Zoho",
+      "location": "Chennai",
+      "category": "Design",
+      "salary": "₹5.5 LPA",
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb",
+      "description": "Design attractive and user-friendly web interfaces.",
+      "experience": "1-2 Years",
+      "jobType": "Full Time",
+      "rating": 4.3,
+      "package": 550000,
+      "skills": "Figma, Adobe XD, UI Design",
+      "deadline": "05 September 2026",
+      "requirements": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "DevOps Engineer",
+      "company": "IBM",
+      "location": "Mumbai",
+      "category": "Cloud",
+      "salary": "₹10 LPA",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "description": "Maintain cloud infrastructure and CI/CD pipelines.",
+      "experience": "3-5 Years",
+      "jobType": "Full Time",
+      "rating": 4.9,
+      "package": 1000000,
+      "skills": "AWS, Docker, Kubernetes",
+      "deadline": "30 September 2026",
+      "requirements": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Data Analyst",
+      "company": "Capgemini",
+      "location": "Noida",
+      "category": "Analytics",
+      "salary": "₹7 LPA",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "description": "Analyze business data and create reports.",
+      "experience": "1-3 Years",
+      "jobType": "Full Time",
+      "rating": 4.5,
+      "package": 700000,
+      "skills": "SQL, Power BI, Excel",
+      "deadline": "12 September 2026",
+      "requirements": [
+        "SQL",
+        "Power BI",
+        "Excel"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Flutter Developer",
+      "company": "HCL",
+      "location": "Hyderabad",
+      "category": "Mobile Development",
+      "salary": "₹8.5 LPA",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+      "description": "Develop Android and iOS applications using Flutter.",
+      "experience": "2-4 Years",
+      "jobType": "Full Time",
+      "rating": 4.7,
+      "package": 850000,
+      "skills": "Flutter, Dart, Firebase",
+      "deadline": "18 September 2026",
+      "requirements": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Software Tester",
+      "company": "Tech Mahindra",
+      "location": "Hyderabad",
+      "category": "Testing",
+      "salary": "₹5 LPA",
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+      "description": "Perform manual and automation testing for web applications.",
+      "experience": "1-2 Years",
+      "jobType": "Full Time",
+      "rating": 4.2,
+      "package": 500000,
+      "skills": "Manual Testing, Selenium, Java",
+      "deadline": "25 September 2026",
+      "requirements": [
+        "Manual Testing",
+        "Selenium",
+        "Java"
+      ]
+    },
+    {
+      "title": "DATA   ANALYST",
+      "company": "servicenow",
+      "location": "Hyderabad",
+      "salary": "45 LPA",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+      "description": "ServiceNow online at your own pace. Start today and improve your skills. Join millions of learners from around the world already learning on Udemy.",
+      "id": "0JPjaAoIGXE",
+      "jobType": "Full Time"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
